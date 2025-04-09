@@ -45,7 +45,8 @@ function FetchWordDefinition() {
 
   return (
     <div>
-      <h2>Word Definition</h2>
+      <h1>Redeploying the app</h1>
+      <h2>Word Definition Updated</h2>
       <input
         type="text"
         value={word}
